@@ -10,7 +10,7 @@ Repositorio de la tarea 1 de la materia Minería de Datos de la Universidad Cent
   * [Creador](#creador)
 
 ## Inicio Rápido
-
+ Se trabajo en el sistema opertivo Ubuntu en su versión 14.04 LTS y con lenguaje de programacion python en la version 2.7. Ademas se utilizo la libreria numpy que ofrece este lenguaje de programacion. Para su utilizacion, vamos a la terminal y se ejecutan este par de comandos:
   * sudo apt-get install python-pip
   * sudo pip install numpy
 
@@ -23,5 +23,8 @@ Repositorio de la tarea 1 de la materia Minería de Datos de la Universidad Cent
 
 ## Creador
   * Wilmer Prieto
+  * https://twitter.com/wilmerjpg
+  * www.facebook.com/wilmerjpg
+  * www.instagram.com/wilmerjpg.92/
+  * https://ve.linkedin.com/in/wilmer-jose-649418a9
 
-  
