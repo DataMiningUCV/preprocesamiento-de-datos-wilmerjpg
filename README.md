@@ -5,7 +5,7 @@ Repositorio de la tarea 1 de la materia Minería de Datos de la Universidad Cent
 
 ## Tabla de Contenidos
 
-  * [Inicio Rápido](#inicio-rapido)
+  * [Inicio Rápido](#inicio-rápido)
   * [Contenido](#contenido)
   * [Creador](#creador)
 
